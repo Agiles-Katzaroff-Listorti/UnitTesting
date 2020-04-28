@@ -1,0 +1,12 @@
+{
+  "name": "testunittesting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.5.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
